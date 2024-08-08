@@ -7,7 +7,7 @@ let y; // y
 
 function setup() {
 random (0, 255);
-  createCanvas(400, 400);
+  createCanvas(1200, 1024);
 background ("white")
 cor = color(random(0, 255), random(0, 255), random(0, 255));
 x = 200;
